@@ -1,0 +1,40 @@
+{
+    "title" : "LESA_dossier",
+    "graph" : {
+        "linkDistance" : 150,
+        "charge"       : -400,
+        "numColors"    : 3,
+        "labelPadding" : {
+            "left"   : 3,
+            "right"  : 3,
+            "top"    : 2,
+            "bottom" : 2
+        },
+        "labelMargin" : {
+            "left"   : 3,
+            "right"  : 3,
+            "top"    : 2,
+            "bottom" : 2
+        },
+        "ticksWithoutCollisions" : 60
+    },
+    "types" : {
+        "racine" : {
+            "short" : "Racine",
+            "long"  : "Dossier racine du projet"
+        },
+		 "analyse" : {
+            "short" : "Analyse",
+            "long"  : "Premières recherches"
+        }
+    },
+    "constraints" : [
+        {
+            "has"    : { "type" : "racine" },
+            "type"   : "position",
+            "x"      : 0.5,
+            "y"      : 0.1,
+            "weight" : 0.9
+        }
+    ]
+}

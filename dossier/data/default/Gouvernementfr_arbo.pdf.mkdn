@@ -1,0 +1,23 @@
+![Gouvernementfr_arbo.pdf](http://romaingoetz.fr/recherches/LESA/sources/Analyses/Arbo/Gouvernementfr_arbo.png)  
+  
+Exportation sous format .pdf de la carte heuristique réalisée grâce au logiciel <a href="https://www.literatureandlatte.com/scapple.php" target="blank"><i class="fa fa-external-link"></i>Scapple</a>.
+
+* **Type :** Portable Document Format (PDF)
+* **Taille :** 69 012 octets (70 Ko sur disque)
+* **Emplacement :** Gouv.fr/Analyse/Arbo
+* **Création :** 18/02/15 - 04:02
+* **Titre :** Gouvernementfr_arbo
+* **Version :** 1.3
+* **Page :** 1
+* **Résolution :** 2352 × 2146
+* **Créateur du contenu :** Scapple
+* **Logiciel d'encodage :** Mac OS X 10.9.5 Quartz PDFContext
+
+&nbsp;  
+**Télécharger**  
+
+[<i class="fa fa-download"></i> Fichier pdf](/recherches/gouv.fr/sources/Analyse/Arbo/Gouvernementfr_arbo.pdf)    
+[<i class="fa fa-download"></i> Fichier texte](/recherches/gouv.fr/sources/Analyse/Arbo/Gouvernementfr_arbo.txt)   
+[<i class="fa fa-download"></i> Fichier png](/recherches/gouv.fr/sources/Analyse/Arbo/Gouvernementfr_arbo.png)    
+[<i class="fa fa-download"></i> Fichier opml](/recherches/gouv.fr/sources/Analyse/Arbo/Gouvernementfr_arbo.opml)   
+[<i class="fa fa-download"></i> Fichier Scapple](/recherches/gouv.fr/sources/Analyse/Arbo/Gouvernementfr_arbo.scap)   

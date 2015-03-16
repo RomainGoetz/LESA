@@ -1,0 +1,1646 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScappleDocument Version="1.1" ID="95C99A78-ED34-4E51-A935-6A5345DFA1D8">
+    <Notes>
+        <Note ID="0" FontSize="17.9575" Position="1162.0,1378.103618" Width="196.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="4" Style="Square"></Border>
+            </Appearance>
+            <String>www.gouvernement.fr</String>
+            <ConnectedNoteIDs>1-4, 191</ConnectedNoteIDs>
+            <PointsToNoteIDs>1-4, 191</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,19</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="1" FontSize="14.0" Position="808.0,1490.103618" Width="212.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square"></Border>
+                <Fill>0.991403 0.571008 0.397268</Fill>
+            </Appearance>
+            <String>L’actualité du premier ministre</String>
+            <ConnectedNoteIDs>0, 6-16, 66</ConnectedNoteIDs>
+            <PointsToNoteIDs>6-16</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,31</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="2" FontSize="14.0" Position="1159.0,1547.103618" Width="207.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Les actions du gouvernement</String>
+            <ConnectedNoteIDs>0, 23-27</ConnectedNoteIDs>
+            <PointsToNoteIDs>23-27</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,27</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="3" FontSize="14.0" Position="1358.818182,1240.412567" Width="244.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Le gouvernement et les institutions</String>
+            <ConnectedNoteIDs>0, 72-75</ConnectedNoteIDs>
+            <PointsToNoteIDs>72-75</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,35</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="4" FontSize="14.0" Position="982.0,1273.103618" Width="140.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square"></Border>
+                <Fill>0.64421 0.849233 0.472243</Fill>
+            </Appearance>
+            <String>Partagez et diffusez</String>
+            <ConnectedNoteIDs>0, 187-188</ConnectedNoteIDs>
+            <PointsToNoteIDs>187-188</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,20</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="5" FontSize="12.0" Position="839.0,1535.103618" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Résumé des activités/déplacements/prises de paroles publiques de Manuel Valls </String>
+        </Note>
+        <Note ID="6" FontSize="12.0" Position="604.0,1441.103618" Width="48.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.991403 0.571008 0.397268</Fill>
+            </Appearance>
+            <String>Articles</String>
+            <ConnectedNoteIDs>1, 11-13</ConnectedNoteIDs>
+        </Note>
+        <Note ID="7" FontSize="12.0" Position="605.0,1497.103618" Width="47.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.991403 0.571008 0.397268</Fill>
+            </Appearance>
+            <String>Tweets</String>
+            <ConnectedNoteIDs>1, 11-13</ConnectedNoteIDs>
+        </Note>
+        <Note ID="8" FontSize="12.0" Position="607.0,1525.103618" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.991403 0.571008 0.397268</Fill>
+            </Appearance>
+            <String>Vidéos</String>
+            <ConnectedNoteIDs>1, 11-13</ConnectedNoteIDs>
+        </Note>
+        <Note ID="9" FontSize="12.0" Position="557.0,1553.103618" Width="95.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.991403 0.571008 0.397268</Fill>
+            </Appearance>
+            <String>Galleries photos</String>
+            <ConnectedNoteIDs>1, 11-13</ConnectedNoteIDs>
+        </Note>
+        <Note ID="10" FontSize="12.0" Position="565.0,1469.103618" Width="87.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.991403 0.571008 0.397268</Fill>
+            </Appearance>
+            <String>Liens externes</String>
+            <ConnectedNoteIDs>1, 11-13</ConnectedNoteIDs>
+        </Note>
+        <Note ID="11" FontSize="12.0" Position="371.0,1712.103618" Width="108.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.991403 0.571008 0.397268</Fill>
+            </Appearance>
+            <String>En un coup d’oeil</String>
+            <ConnectedNoteIDs>1, 6-10, 17</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,17</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="12" FontSize="12.0" Position="496.0,1712.103618" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.991403 0.571008 0.397268</Fill>
+            </Appearance>
+            <String>Toute l’actualité</String>
+            <ConnectedNoteIDs>1, 6-10, 18</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,17</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="13" FontSize="12.0" Position="610.0,1712.103618" Width="62.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.991403 0.571008 0.397268</Fill>
+            </Appearance>
+            <String>En image</String>
+            <ConnectedNoteIDs>1, 6-10, 19</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,8</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="14" FontSize="12.0" Position="692.0,1712.103618" Width="93.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.991403 0.571008 0.397268</Fill>
+            </Appearance>
+            <String>Espace Presse</String>
+            <ConnectedNoteIDs>1, 20</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,13</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="15" FontSize="12.0" Position="804.0,1712.103618" Width="53.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.991403 0.571008 0.397268</Fill>
+            </Appearance>
+            <String>Agenda</String>
+            <ConnectedNoteIDs>1, 21</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,6</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="16" FontSize="12.0" Position="877.0,1712.103618" Width="123.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.991403 0.571008 0.397268</Fill>
+            </Appearance>
+            <String>Discours et Rapport</String>
+            <ConnectedNoteIDs>1, 22</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,19</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="352.0,1769.103618" Width="134.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Suite d’actualités en grandes bandes prenant toute la largeur de l’écran - Cours textes « chapeau » et grandes images. Boutons de partages sur les réseau sociaux omniprésents</String>
+            <ConnectedNoteIDs>11</ConnectedNoteIDs>
+        </Note>
+        <Note ID="18" FontSize="12.0" Position="504.0,1771.103618" Width="131.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Ajouts d’une possibilité de filtrage des actualités du premier ministre
+Vues des mêmes actualités sous forme de liste réduite</String>
+            <ConnectedNoteIDs>12</ConnectedNoteIDs>
+        </Note>
+        <Note ID="19" FontSize="12.0" Position="643.0,1768.103618" Width="97.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Affichage sous forme d’une grille d’image en deux colonnes</String>
+            <ConnectedNoteIDs>13</ConnectedNoteIDs>
+        </Note>
+        <Note ID="20" FontSize="12.0" Position="688.0,1855.103618" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Événements de la journée et accès à l’agenda du premier ministre + téléchargement des discours et rapports</String>
+            <ConnectedNoteIDs>14, 21-22</ConnectedNoteIDs>
+            <PointsToNoteIDs>21-22</PointsToNoteIDs>
+        </Note>
+        <Note ID="21" FontSize="12.0" Position="824.0,1902.103618" Width="102.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Présentation de « l’agenda » du premier ministre : ce qu’il fait, quand, avec qui et où. Affichage par jour.</String>
+            <ConnectedNoteIDs>15, 20</ConnectedNoteIDs>
+        </Note>
+        <Note ID="22" FontSize="12.0" Position="889.0,1764.103618" Width="114.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Présentation des discours du premier ministres et des rapports des affaires qu’il traite. Possibilité de les télécharger sous forme de pdf.</String>
+            <ConnectedNoteIDs>16, 20</ConnectedNoteIDs>
+        </Note>
+        <Note ID="23" FontSize="12.0" Position="1109.0,1625.103618" Width="58.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Le Pacte</String>
+            <ConnectedNoteIDs>2, 28</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,8</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="24" FontSize="12.0" Position="1276.0,1639.103618" Width="75.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Les actions</String>
+            <ConnectedNoteIDs>2, 34</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,11</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="25" FontSize="12.0" Position="1372.145508,1665.753906" Width="164.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>L’essentiels des ministères</String>
+            <ConnectedNoteIDs>2, 44</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,27</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="26" FontSize="12.0" Position="1518.0,1557.103618" Width="97.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Le Porte-parole</String>
+            <ConnectedNoteIDs>2, 45-46, 49-52</ConnectedNoteIDs>
+            <PointsToNoteIDs>46, 49-52</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,15</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="27" FontSize="12.0" Position="1442.0,1482.103618" Width="133.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Conseil des ministres</String>
+            <ConnectedNoteIDs>2, 51</ConnectedNoteIDs>
+            <PointsToNoteIDs>51</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,21</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="28" FontSize="12.0" Position="1059.0,1694.103618" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Inforgraphie semi-interactive résumant le « pacte » du gouvernement, ou tout du moins, son engagement ou objectif prioritaire pour relancer l’économie</String>
+            <ConnectedNoteIDs>23</ConnectedNoteIDs>
+        </Note>
+        <Note ID="29" FontSize="12.0" Position="1059.0,1778.103618" Width="165.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Le Pacte pour les entreprises</String>
+        </Note>
+        <Note ID="30" FontSize="12.0" Position="1059.0,1806.103618" Width="155.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Le Pacte pour les ménages</String>
+        </Note>
+        <Note ID="31" FontSize="12.0" Position="1059.0,1834.103618" Width="127.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Les résultats du Pacte</String>
+        </Note>
+        <Note ID="32" FontSize="12.0" Position="1059.0,1862.103618" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Son financement</String>
+        </Note>
+        <Note ID="33" FontSize="12.0" Position="1059.0,1890.103618" Width="109.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Un cercle vertueux</String>
+        </Note>
+        <Note ID="34" FontSize="12.0" Position="1287.0,1753.103618" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Présentation des différentes actions du gouvernement, regroupées par enjeux.</String>
+            <ConnectedNoteIDs>24</ConnectedNoteIDs>
+        </Note>
+        <Note ID="35" FontSize="12.0" Position="1286.0,1809.103618" Width="171.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>État et collectivités territoriales</String>
+            <ConnectedNoteIDs>196</ConnectedNoteIDs>
+            <PointsToNoteIDs>196</PointsToNoteIDs>
+        </Note>
+        <Note ID="36" FontSize="12.0" Position="1286.0,1865.103618" Width="62.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Économie</String>
+            <ConnectedNoteIDs>196</ConnectedNoteIDs>
+            <PointsToNoteIDs>196</PointsToNoteIDs>
+        </Note>
+        <Note ID="37" FontSize="12.0" Position="1286.0,1837.103618" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Emploi et Travail</String>
+            <ConnectedNoteIDs>196</ConnectedNoteIDs>
+            <PointsToNoteIDs>196</PointsToNoteIDs>
+        </Note>
+        <Note ID="38" FontSize="12.0" Position="1286.0,1893.103618" Width="123.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Jeunesse et Éduction</String>
+            <ConnectedNoteIDs>196</ConnectedNoteIDs>
+            <PointsToNoteIDs>196</PointsToNoteIDs>
+        </Note>
+        <Note ID="39" FontSize="12.0" Position="1286.0,1921.103618" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Agriculture et Développement durable</String>
+            <ConnectedNoteIDs>196</ConnectedNoteIDs>
+            <PointsToNoteIDs>196</PointsToNoteIDs>
+        </Note>
+        <Note ID="40" FontSize="12.0" Position="1286.0,1963.103618" Width="143.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Santé et Affaires sociales</String>
+            <ConnectedNoteIDs>196</ConnectedNoteIDs>
+            <PointsToNoteIDs>196</PointsToNoteIDs>
+        </Note>
+        <Note ID="41" FontSize="12.0" Position="1286.0,1991.103618" Width="165.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Société et Politique de la ville</String>
+            <ConnectedNoteIDs>196</ConnectedNoteIDs>
+            <PointsToNoteIDs>196</PointsToNoteIDs>
+        </Note>
+        <Note ID="42" FontSize="12.0" Position="1286.0,2019.103618" Width="107.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Sécurité et Justice</String>
+            <ConnectedNoteIDs>196</ConnectedNoteIDs>
+            <PointsToNoteIDs>196</PointsToNoteIDs>
+        </Note>
+        <Note ID="43" FontSize="12.0" Position="1286.0,2047.103618" Width="101.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Europe et Monde</String>
+            <ConnectedNoteIDs>196</ConnectedNoteIDs>
+            <PointsToNoteIDs>196</PointsToNoteIDs>
+        </Note>
+        <Note ID="44" FontSize="12.0" Position="1524.00293,1724.536133" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Liens vers les sites des différents ministères et flux twitter sélectionné, re-contextualisé et mis-à-jour continuellement</String>
+            <ConnectedNoteIDs>25</ConnectedNoteIDs>
+        </Note>
+        <Note ID="45" FontSize="12.0" Position="1685.0,1490.103618" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Explication du rôle du Porte Parole du gouvernement et présentation de ses actualités</String>
+            <ConnectedNoteIDs>26</ConnectedNoteIDs>
+        </Note>
+        <Note ID="46" FontSize="12.0" Position="1721.0,1565.103618" Width="61.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Actualités</String>
+            <ConnectedNoteIDs>26, 47</ConnectedNoteIDs>
+            <PointsToNoteIDs>47</PointsToNoteIDs>
+        </Note>
+        <Note ID="47" FontSize="12.0" Position="1826.0,1559.103618" Width="83.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Le point sur…</String>
+            <ConnectedNoteIDs>46, 48</ConnectedNoteIDs>
+        </Note>
+        <Note ID="48" FontSize="12.0" Position="1901.0,1450.103618" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Différents articles présentés sous la forme de liste concernant des mises au points d’actions du gouvernement et de son porte-parole</String>
+            <ConnectedNoteIDs>47, 57</ConnectedNoteIDs>
+        </Note>
+        <Note ID="49" FontSize="12.0" Position="1730.0,1634.103618" Width="51.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Mission</String>
+            <ConnectedNoteIDs>26, 53</ConnectedNoteIDs>
+        </Note>
+        <Note ID="50" FontSize="12.0" Position="1873.0,1629.103618" Width="73.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Publications</String>
+            <ConnectedNoteIDs>26, 55-57</ConnectedNoteIDs>
+            <PointsToNoteIDs>55-57</PointsToNoteIDs>
+        </Note>
+        <Note ID="51" FontSize="12.0" Position="1764.0,1380.103618" Width="140.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Compte rendu du conseil des ministres</String>
+            <ConnectedNoteIDs>26-27, 61</ConnectedNoteIDs>
+        </Note>
+        <Note ID="52" FontSize="12.0" Position="1780.0,1776.103618" Width="142.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Les mots du porte-parole</String>
+            <ConnectedNoteIDs>26, 62, 188</ConnectedNoteIDs>
+        </Note>
+        <Note ID="53" FontSize="12.0" Position="1762.0,1683.103618" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Détails du rôle du porte-parole en un article + Accès coulisses (vidéo de mise en scène)</String>
+            <ConnectedNoteIDs>49</ConnectedNoteIDs>
+        </Note>
+        <Note ID="55" FontSize="12.0" Position="2016.0,1626.103618" Width="75.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Infos du jour</String>
+            <ConnectedNoteIDs>50, 58</ConnectedNoteIDs>
+        </Note>
+        <Note ID="56" FontSize="12.0" Position="1986.0,1667.103618" Width="120.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Questions d’actualité</String>
+            <ConnectedNoteIDs>50, 59</ConnectedNoteIDs>
+        </Note>
+        <Note ID="57" FontSize="12.0" Position="2024.0,1583.103618" Width="83.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Le point sur…</String>
+            <ConnectedNoteIDs>48, 50</ConnectedNoteIDs>
+        </Note>
+        <Note ID="58" FontSize="12.0" Position="2188.0,1707.103618" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Résumés des informations d’actualités par le porte-parolat- Pas de liens</String>
+            <ConnectedNoteIDs>55</ConnectedNoteIDs>
+        </Note>
+        <Note ID="59" FontSize="12.0" Position="2183.0,1767.103618" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Résumés des sujets d’actulités par le Porte-parolat en plusieurs pdfs téléchargeables.</String>
+            <ConnectedNoteIDs>56</ConnectedNoteIDs>
+        </Note>
+        <Note ID="61" FontSize="12.0" Position="1973.0,1363.103618" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Présentation des différents comptes rendus des conseils des ministres, sous forme de liste - accès à des articles et à des vidéos.</String>
+            <ConnectedNoteIDs>51</ConnectedNoteIDs>
+        </Note>
+        <Note ID="62" FontSize="12.0" Position="1803.0,1828.103618" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Présentation sous forme de grille re-dimensionnable et interactives de différentes prises de paroles du gouvernement et de ses ministres.</String>
+            <ConnectedNoteIDs>52</ConnectedNoteIDs>
+        </Note>
+        <Note ID="63" FontSize="12.0" Position="1242.637336,131.402138" Width="76.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Manuel Valls</String>
+            <ConnectedNoteIDs>65-67, 72, 77</ConnectedNoteIDs>
+            <PointsToNoteIDs>65-67</PointsToNoteIDs>
+        </Note>
+        <Note ID="65" FontSize="12.0" Position="1094.847862,121.92023" Width="66.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Biographie</String>
+            <ConnectedNoteIDs>63, 68</ConnectedNoteIDs>
+        </Note>
+        <Note ID="66" FontSize="12.0" Position="986.946546,393.090461" Width="109.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Action et actualités</String>
+            <ConnectedNoteIDs>1, 63, 69</ConnectedNoteIDs>
+            <PointsToNoteIDs>1</PointsToNoteIDs>
+        </Note>
+        <Note ID="67" FontSize="12.0" Position="1182.140625,341.755757" Width="50.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Cabinet</String>
+            <ConnectedNoteIDs>63, 71</ConnectedNoteIDs>
+        </Note>
+        <Note ID="68" FontSize="12.0" Position="975.515625,198.004934" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Présentation de la biographie du premier ministre - Fonction actuelle- Fonction ministérielle - Fonctions électives - Fonctions politiques - Carrières - Études - Derniers ouvrages parus - </String>
+            <ConnectedNoteIDs>65</ConnectedNoteIDs>
+        </Note>
+        <Note ID="69" FontSize="12.0" Position="1068.474507,488.555099" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Présentation sous forme de liste des dernières actions du premier ministre</String>
+            <ConnectedNoteIDs>66</ConnectedNoteIDs>
+        </Note>
+        <Note ID="71" FontSize="12.0" Position="1143.886513,419.304276" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Listes des différentes personnes présentes au cabinet du premier ministre. Avec l’adresse du cabinet.</String>
+            <ConnectedNoteIDs>67</ConnectedNoteIDs>
+        </Note>
+        <Note ID="72" FontSize="11.0" Position="1680.09304,1243.998505" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>En un coup d’oeil</String>
+            <ConnectedNoteIDs>3, 63, 73, 75</ConnectedNoteIDs>
+            <PointsToNoteIDs>63, 73, 75</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,17</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="73" FontSize="12.0" Position="1699.650568,862.413278" Width="182.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Compostion du gouvernement</String>
+            <ConnectedNoteIDs>3, 72, 77-93</ConnectedNoteIDs>
+            <PointsToNoteIDs>77-93</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,26</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="74" FontSize="12.0" Position="1162.0,1148.103618" Width="174.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Services du Premier ministre</String>
+            <ConnectedNoteIDs>3, 162-177</ConnectedNoteIDs>
+            <PointsToNoteIDs>163-177</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,28</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="75" FontSize="12.0" Position="1901.6875,1135.151042" Width="101.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Le savez-vous ?</String>
+            <ConnectedNoteIDs>3, 72, 180-186</ConnectedNoteIDs>
+            <PointsToNoteIDs>181-186</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,15</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="76" FontSize="12.0" Position="1416.84517,930.316687" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Vue en deux colonnes du la composition du gouvernement. Celle de gauche est une liste et celle de droit la reprend, mais avec des images</String>
+        </Note>
+        <Note ID="77" FontSize="12.0" Position="1475.228618,101.126645" Width="96.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Premier ministre</String>
+            <ConnectedNoteIDs>63, 73, 95-96</ConnectedNoteIDs>
+            <PointsToNoteIDs>63, 95-96</PointsToNoteIDs>
+        </Note>
+        <Note ID="78" FontSize="12.0" Position="1475.228618,129.126645" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ministère des Affaires étrangères et du Développement international</String>
+            <ConnectedNoteIDs>73, 97-100</ConnectedNoteIDs>
+            <PointsToNoteIDs>97-100</PointsToNoteIDs>
+        </Note>
+        <Note ID="79" FontSize="12.0" Position="1475.228618,171.126645" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ministère de l’Écologie, du Développement durable et de l’Énergie</String>
+            <ConnectedNoteIDs>73, 103-104</ConnectedNoteIDs>
+            <PointsToNoteIDs>103-104</PointsToNoteIDs>
+        </Note>
+        <Note ID="80" FontSize="12.0" Position="1475.228618,227.126645" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ministère de l’Education nationale, de l’Enseignement supérieur et de la Recherche</String>
+            <ConnectedNoteIDs>73, 105-106</ConnectedNoteIDs>
+            <PointsToNoteIDs>105-106</PointsToNoteIDs>
+        </Note>
+        <Note ID="81" FontSize="12.0" Position="1475.228618,283.126645" Width="124.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ministère de la justice</String>
+            <ConnectedNoteIDs>73, 107</ConnectedNoteIDs>
+            <PointsToNoteIDs>107</PointsToNoteIDs>
+        </Note>
+        <Note ID="82" FontSize="12.0" Position="1475.228618,311.126645" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ministère des Finances et des Comptes publics</String>
+            <ConnectedNoteIDs>73, 108-109</ConnectedNoteIDs>
+            <PointsToNoteIDs>108-109</PointsToNoteIDs>
+        </Note>
+        <Note ID="83" FontSize="12.0" Position="1475.228618,353.126645" Width="135.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ministère de la Défense</String>
+            <ConnectedNoteIDs>73, 110-111</ConnectedNoteIDs>
+            <PointsToNoteIDs>110-111</PointsToNoteIDs>
+        </Note>
+        <Note ID="84" FontSize="12.0" Position="1475.228618,381.126645" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ministère des Affaires sociales, de la Santé et des Droits des femmes</String>
+            <ConnectedNoteIDs>73, 112-115</ConnectedNoteIDs>
+            <PointsToNoteIDs>112-115</PointsToNoteIDs>
+        </Note>
+        <Note ID="85" FontSize="12.0" Position="1475.228618,423.126645" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ministère du Travail, de l’Emploi, de la Formation professionnelles et du Dialogue social.</String>
+            <ConnectedNoteIDs>73, 116</ConnectedNoteIDs>
+            <PointsToNoteIDs>116</PointsToNoteIDs>
+        </Note>
+        <Note ID="86" FontSize="12.0" Position="1475.228618,479.126645" Width="126.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ministère de l’intérieur</String>
+            <ConnectedNoteIDs>73, 117</ConnectedNoteIDs>
+            <PointsToNoteIDs>117</PointsToNoteIDs>
+        </Note>
+        <Note ID="87" FontSize="12.0" Position="1475.228618,507.126645" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ministère de l’Agriculture, de l’Agro-alimentaire et de la Forêt</String>
+            <ConnectedNoteIDs>73, 118</ConnectedNoteIDs>
+            <PointsToNoteIDs>118</PointsToNoteIDs>
+        </Note>
+        <Note ID="88" FontSize="12.0" Position="1475.228618,549.126645" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ministère de l’Économie, de l’Industrie et du Numérique</String>
+            <ConnectedNoteIDs>73, 119-121</ConnectedNoteIDs>
+            <PointsToNoteIDs>119-121</PointsToNoteIDs>
+        </Note>
+        <Note ID="89" FontSize="12.0" Position="1475.228618,591.126645" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ministère du Logement, de l’Égalité des territoires et de la Ruralité</String>
+            <ConnectedNoteIDs>73, 122</ConnectedNoteIDs>
+            <PointsToNoteIDs>122</PointsToNoteIDs>
+        </Note>
+        <Note ID="90" FontSize="12.0" Position="1475.228618,633.126645" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ministère de la Décentralisation et la Fonction publique</String>
+            <ConnectedNoteIDs>73, 123-124</ConnectedNoteIDs>
+            <PointsToNoteIDs>123-124</PointsToNoteIDs>
+        </Note>
+        <Note ID="91" FontSize="12.0" Position="1475.228618,675.126645" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ministère de la Culture et de la Communication</String>
+            <ConnectedNoteIDs>73, 125</ConnectedNoteIDs>
+            <PointsToNoteIDs>125</PointsToNoteIDs>
+        </Note>
+        <Note ID="92" FontSize="12.0" Position="1475.228618,717.126645" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ministère de la Ville, de la Jeunesse et des Sports</String>
+            <ConnectedNoteIDs>73, 126-128</ConnectedNoteIDs>
+            <PointsToNoteIDs>126-128</PointsToNoteIDs>
+        </Note>
+        <Note ID="93" FontSize="12.0" Position="1475.228618,759.126645" Width="138.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ministère des Outre-Mer</String>
+            <ConnectedNoteIDs>73, 129</ConnectedNoteIDs>
+            <PointsToNoteIDs>129</PointsToNoteIDs>
+        </Note>
+        <Note ID="95" FontSize="12.0" Position="1736.023065,7.261905" Width="118.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Jean-Marie Le Guen</String>
+            <ConnectedNoteIDs>77, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="96" FontSize="12.0" Position="1690.182566,49.939967" Width="93.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Thierry Mandon</String>
+            <ConnectedNoteIDs>77, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="97" FontSize="12.0" Position="1891.475329,55.690789" Width="89.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Laurent Fabius</String>
+            <ConnectedNoteIDs>78, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="98" FontSize="12.0" Position="1891.475329,83.690789" Width="79.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Harlem Désir</String>
+            <ConnectedNoteIDs>78, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="99" FontSize="12.0" Position="1891.475329,111.690789" Width="91.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Annick Girardin</String>
+            <ConnectedNoteIDs>78, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="100" FontSize="12.0" Position="1891.475329,139.690789" Width="80.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Matthias Fekl</String>
+            <ConnectedNoteIDs>78, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="103" FontSize="12.0" Position="1733.907895,163.051809" Width="93.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ségolène Royal</String>
+            <ConnectedNoteIDs>79, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="104" FontSize="12.0" Position="1751.907895,194.051809" Width="80.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Alain Vidalies</String>
+            <ConnectedNoteIDs>79, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="105" FontSize="12.0" Position="1774.169408,223.449836" Width="136.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Najat Vallaud-Belkacem</String>
+            <ConnectedNoteIDs>80, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130</PointsToNoteIDs>
+        </Note>
+        <Note ID="106" FontSize="12.0" Position="1778.564145,254.254112" Width="109.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Geneviève Fioraso</String>
+            <ConnectedNoteIDs>80, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="107" FontSize="12.0" Position="1684.052632,284.052632" Width="101.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Chistiane Taubira</String>
+            <ConnectedNoteIDs>81, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="108" FontSize="12.0" Position="1841.214638,291.907895" Width="77.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Michel Sapin</String>
+            <ConnectedNoteIDs>82, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="109" FontSize="12.0" Position="1836.354441,318.32977" Width="93.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Christian Eckert</String>
+            <ConnectedNoteIDs>82, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="110" FontSize="12.0" Position="1703.486842,341.34375" Width="113.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Jean-Yves Le Drian</String>
+            <ConnectedNoteIDs>83, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="111" FontSize="12.0" Position="1715.486842,368.34375" Width="125.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Jean-Marc Todeschini</String>
+            <ConnectedNoteIDs>83, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="112" FontSize="12.0" Position="1872.578947,366.421053" Width="96.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Marisol Touraine</String>
+            <ConnectedNoteIDs>84, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="113" FontSize="12.0" Position="1873.0,394.0" Width="121.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Laurencce Rossignol</String>
+            <ConnectedNoteIDs>84, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="114" FontSize="12.0" Position="1873.0,422.0" Width="105.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Ségolène Neuville</String>
+            <ConnectedNoteIDs>84, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="115" FontSize="12.0" Position="1873.0,450.0" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Pascale Boistard</String>
+            <ConnectedNoteIDs>84, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="116" FontSize="12.0" Position="1720.980263,431.390625" Width="116.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>François Rebsamen</String>
+            <ConnectedNoteIDs>85, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="117" FontSize="12.0" Position="1705.5,473.792763" Width="115.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Bernard Cazeneuve</String>
+            <ConnectedNoteIDs>86, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="118" FontSize="12.0" Position="1723.158482,508.729911" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Stéphane Le Foll</String>
+            <ConnectedNoteIDs>87, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="119" FontSize="12.0" Position="1851.980655,502.85119" Width="109.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Emmanuel Macron</String>
+            <ConnectedNoteIDs>88, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="120" FontSize="12.0" Position="1851.980655,530.85119" Width="79.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Carole Delga</String>
+            <ConnectedNoteIDs>88, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="121" FontSize="12.0" Position="1851.980655,558.85119" Width="88.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Axelle Lemaire</String>
+            <ConnectedNoteIDs>88, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="122" FontSize="12.0" Position="1749.968006,592.357887" Width="71.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Sylvia Pinel</String>
+            <ConnectedNoteIDs>89, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="123" FontSize="12.0" Position="1858.482887,604.973214" Width="113.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Marylise Lebranchu</String>
+            <ConnectedNoteIDs>90, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="124" FontSize="12.0" Position="1858.482887,632.973214" Width="75.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>André Vallini</String>
+            <ConnectedNoteIDs>90, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="125" FontSize="12.0" Position="1775.590774,662.558036" Width="79.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Fleur Pellerin</String>
+            <ConnectedNoteIDs>91, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="126" FontSize="12.0" Position="1872.417411,683.895833" Width="81.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Patric Kanner</String>
+            <ConnectedNoteIDs>92, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="127" FontSize="12.0" Position="1872.417411,711.895833" Width="103.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Myriam El Khomri</String>
+            <ConnectedNoteIDs>92, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="128" FontSize="12.0" Position="1872.417411,739.895833" Width="93.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Thierry Braillard</String>
+            <ConnectedNoteIDs>92, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="129" FontSize="12.0" Position="1793.16369,769.97247" Width="126.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>George Pau-Langevin</String>
+            <ConnectedNoteIDs>93, 130-132</ConnectedNoteIDs>
+            <PointsToNoteIDs>130-132</PointsToNoteIDs>
+        </Note>
+        <Note ID="130" FontSize="12.0" Position="2237.699405,132.579613" Width="66.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Biographie</String>
+            <ConnectedNoteIDs>95-100, 103-129, 159</ConnectedNoteIDs>
+        </Note>
+        <Note ID="131" FontSize="12.0" Position="2241.482887,413.565476" Width="115.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Actions et actualités</String>
+            <ConnectedNoteIDs>95-100, 103-129, 160</ConnectedNoteIDs>
+        </Note>
+        <Note ID="132" FontSize="12.0" Position="2244.068452,623.337798" Width="50.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Cabinet</String>
+            <ConnectedNoteIDs>95-100, 103-129, 161</ConnectedNoteIDs>
+        </Note>
+        <Note ID="159" FontSize="12.0" Position="2340.704613,127.500744" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Description détaillée de la biographie de la personne</String>
+            <ConnectedNoteIDs>130</ConnectedNoteIDs>
+        </Note>
+        <Note ID="160" FontSize="12.0" Position="2403.837054,391.697173" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Différents résumés des actualités de la personne ou du ministère auquel elle est rattachée. Liens vers les sites des ministères.</String>
+            <ConnectedNoteIDs>131</ConnectedNoteIDs>
+        </Note>
+        <Note ID="161" FontSize="12.0" Position="2358.210565,630.462054" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Listes et compostions des cabinets des différents ministères.</String>
+            <ConnectedNoteIDs>132</ConnectedNoteIDs>
+        </Note>
+        <Note ID="162" FontSize="12.0" Position="988.172619,1136.006696" Width="147.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Présentation des différents services du premier ministre</String>
+            <ConnectedNoteIDs>74</ConnectedNoteIDs>
+        </Note>
+        <Note ID="163" FontSize="12.0" Position="1104.706845,627.596726" Width="98.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Affaires Sociales</String>
+            <ConnectedNoteIDs>74, 178</ConnectedNoteIDs>
+        </Note>
+        <Note ID="164" FontSize="12.0" Position="1104.706845,655.596726" Width="143.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Autorités administratives indépendantes (AAI)</String>
+            <ConnectedNoteIDs>74, 178</ConnectedNoteIDs>
+        </Note>
+        <Note ID="165" FontSize="12.0" Position="1104.706845,697.596726" Width="135.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Coordination du travail gouvernemental</String>
+            <ConnectedNoteIDs>74, 178</ConnectedNoteIDs>
+        </Note>
+        <Note ID="166" FontSize="12.0" Position="1104.706845,739.596726" Width="133.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Coordination territoriale</String>
+            <ConnectedNoteIDs>74, 178</ConnectedNoteIDs>
+        </Note>
+        <Note ID="167" FontSize="12.0" Position="1104.706845,767.596726" Width="95.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Droits et libertés</String>
+            <ConnectedNoteIDs>74, 178</ConnectedNoteIDs>
+        </Note>
+        <Note ID="168" FontSize="12.0" Position="1104.706845,795.596726" Width="62.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Economie</String>
+            <ConnectedNoteIDs>74, 178</ConnectedNoteIDs>
+        </Note>
+        <Note ID="169" FontSize="12.0" Position="1104.706845,823.596726" Width="63.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Formation</String>
+            <ConnectedNoteIDs>74, 178</ConnectedNoteIDs>
+        </Note>
+        <Note ID="170" FontSize="12.0" Position="1104.706845,851.596726" Width="146.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Information administrative</String>
+            <ConnectedNoteIDs>74, 178</ConnectedNoteIDs>
+        </Note>
+        <Note ID="171" FontSize="12.0" Position="1104.706845,879.596726" Width="131.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Mémoire et distinctions</String>
+            <ConnectedNoteIDs>74, 178</ConnectedNoteIDs>
+        </Note>
+        <Note ID="172" FontSize="12.0" Position="1104.706845,907.596726" Width="84.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Modernisation</String>
+            <ConnectedNoteIDs>74, 178</ConnectedNoteIDs>
+        </Note>
+        <Note ID="173" FontSize="12.0" Position="1104.706845,935.596726" Width="144.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Politique européenne &amp; internationale</String>
+            <ConnectedNoteIDs>74, 178</ConnectedNoteIDs>
+        </Note>
+        <Note ID="174" FontSize="12.0" Position="1104.706845,977.596726" Width="89.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Santé publique</String>
+            <ConnectedNoteIDs>74, 178</ConnectedNoteIDs>
+        </Note>
+        <Note ID="175" FontSize="12.0" Position="1104.706845,1005.596726" Width="114.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Sécurité et Défense</String>
+            <ConnectedNoteIDs>74, 178</ConnectedNoteIDs>
+        </Note>
+        <Note ID="176" FontSize="12.0" Position="1104.706845,1033.596726" Width="53.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Soutient</String>
+            <ConnectedNoteIDs>74, 178</ConnectedNoteIDs>
+        </Note>
+        <Note ID="177" FontSize="12.0" Position="1104.706845,1061.596726" Width="135.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Stratégie et prospective</String>
+            <ConnectedNoteIDs>74, 178</ConnectedNoteIDs>
+        </Note>
+        <Note ID="178" FontSize="12.0" Position="720.355655,772.679315" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Liens vers des descriptions ou vers les sites des différents services.</String>
+            <ConnectedNoteIDs>163-177</ConnectedNoteIDs>
+        </Note>
+        <Note ID="179" FontSize="12.0" Position="1895.352823,1031.734375" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Différents articles condensants des documentaires interactifs, anecdotes et explications illustrées.</String>
+        </Note>
+        <Note ID="180" FontSize="12.0" Position="1895.0,1030.563508" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Différents articles condensants des documentaires interactifs, faits historiques, anecdotes et explications illustrées.</String>
+            <ConnectedNoteIDs>75</ConnectedNoteIDs>
+        </Note>
+        <Note ID="181" FontSize="12.0" Position="2132.554435,1039.606351" Width="103.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Pour les 6-10 ans</String>
+            <ConnectedNoteIDs>75</ConnectedNoteIDs>
+        </Note>
+        <Note ID="182" FontSize="12.0" Position="2133.0,1068.0" Width="183.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Qu’est-ce qu’un gouvernement ?</String>
+            <ConnectedNoteIDs>75</ConnectedNoteIDs>
+        </Note>
+        <Note ID="183" FontSize="12.0" Position="2133.0,1096.0" Width="186.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Les portes de Matignon s’ouvrent</String>
+            <ConnectedNoteIDs>75</ConnectedNoteIDs>
+        </Note>
+        <Note ID="184" FontSize="12.0" Position="2133.0,1124.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Les premiers ministres de la Ve république de 1958 à 2012</String>
+            <ConnectedNoteIDs>75</ConnectedNoteIDs>
+        </Note>
+        <Note ID="185" FontSize="12.0" Position="2133.0,1166.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Les gouvernements de la Vème République</String>
+            <ConnectedNoteIDs>75</ConnectedNoteIDs>
+        </Note>
+        <Note ID="186" FontSize="12.0" Position="2133.0,1208.0" Width="127.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Le Jardin de Matignon</String>
+            <ConnectedNoteIDs>75</ConnectedNoteIDs>
+        </Note>
+        <Note ID="187" FontSize="12.0" Position="655.0,1200.0" Width="160.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.64421 0.849233 0.472243</Fill>
+            </Appearance>
+            <String>Les infographies et vidéos</String>
+            <ConnectedNoteIDs>4, 190</ConnectedNoteIDs>
+            <PointsToNoteIDs>190</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,26</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="188" FontSize="12.0" Position="646.694079,1309.625" Width="153.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.64421 0.849233 0.472243</Fill>
+            </Appearance>
+            <String>Les mots du Porte-parole</String>
+            <ConnectedNoteIDs>4, 52</ConnectedNoteIDs>
+            <PointsToNoteIDs>52</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,24</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="190" FontSize="12.0" Position="664.922697,1070.788651" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Différentes infographies et vidéos en rapport avec l’actualité à partager sur les réseaux sociaux</String>
+            <ConnectedNoteIDs>187</ConnectedNoteIDs>
+        </Note>
+        <Note ID="191" FontSize="14.0" Position="2187.885742,1312.71875" Width="106.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+            <String>Page d’acceuil</String>
+            <ConnectedNoteIDs>0, 192-195</ConnectedNoteIDs>
+            <PointsToNoteIDs>192-195</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,14</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="192" FontSize="14.0" Position="2400.691406,1262.25293" Width="212.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.991403 0.571008 0.397268</Fill>
+            </Appearance>
+            <String>L’actualité du premier ministre</String>
+            <ConnectedNoteIDs>191</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,31</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="193" FontSize="14.0" Position="2401.691406,1297.25293" Width="207.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <String>Les actions du gouvrenement</String>
+            <ConnectedNoteIDs>191</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,27</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="194" FontSize="14.0" Position="2387.691406,1333.25293" Width="244.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+            <String>Le gouvernement et les institutions</String>
+            <ConnectedNoteIDs>191</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,35</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="195" FontSize="14.0" Position="2427.691406,1368.25293" Width="140.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+                <Fill>0.76816 0.875933 0.687323</Fill>
+            </Appearance>
+            <String>Partagez et diffusez</String>
+            <ConnectedNoteIDs>191</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,20</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="196" FontSize="12.0" Position="1531.886719,1899.542969" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Square"></Border>
+            </Appearance>
+            <String>Différents articles explicatifs, riches et contextualisés</String>
+            <ConnectedNoteIDs>35-43</ConnectedNoteIDs>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <Stacks>
+        <Stack>28-33</Stack>
+        <Stack>35, 37, 36, 38-43</Stack>
+        <Stack>77-93</Stack>
+        <Stack>97-100</Stack>
+        <Stack>112-115</Stack>
+        <Stack>119-121</Stack>
+        <Stack>123-124</Stack>
+        <Stack>126-128</Stack>
+        <Stack>163-177</Stack>
+        <Stack>181-186</Stack>
+    </Stacks>
+    <AutoFit>0-4, 6-16, 23-27, 29-33, 35-36, 38, 40-43, 46-47, 50, 52, 55-57, 63, 65-67, 72-75, 77, 81, 83, 86, 93, 95-100, 103-132, 163, 166-172, 174-177, 181-183, 186-188, 191-195</AutoFit>
+    <NoteStyles>
+        <Style Name="Blue Bubble" ID="84F0879A-A213-456C-9BDE-1B41F4F3E06B" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.477193 0.557066 0.76433</BorderColor>
+            <FillColor>0.840969 0.866828 0.925903</FillColor>
+        </Style>
+        <Style Name="Brown Bubble" ID="5E556826-6FE9-424D-8EC8-CEB9FECE86BE" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.290055 0.1523 0.182215</BorderColor>
+            <FillColor>0.940019 0.892907 0.779716</FillColor>
+        </Style>
+        <Style Name="Green Bubble" ID="3CB1C1EB-90B4-433D-884D-B6678526B9EC" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.331867 0.609932 0.356197</BorderColor>
+            <FillColor>0.790123 0.882327 0.80198</FillColor>
+        </Style>
+        <Style Name="Pink Bubble" ID="A374E257-06A8-4C42-9278-CCDABA1B0368" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.747881 0.366532 0.542813</BorderColor>
+            <FillColor>0.918452 0.807302 0.863467</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="ACC20594-A830-4210-AF23-A85C8391B1C1" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>1.0 0.0 0.0</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="CFED57A5-7254-4519-BF5D-BAE8E3675083" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+        <Style Name="Yellow Bubble" ID="252D6DF8-3096-4941-8BBB-4B6ACC9B3E0A" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.756763 0.785592 0.373258</BorderColor>
+            <FillColor>0.906773 0.910625 0.634363</FillColor>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>1.0 1.0 1.0</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+    </UISettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>

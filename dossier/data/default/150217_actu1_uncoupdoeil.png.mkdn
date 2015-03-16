@@ -1,0 +1,16 @@
+![150217_Accueil.png](/recherches/gouv.fr/sources/Analyse/Captures/150217_actu1_uncoupdoeil.png)  
+  
+Capture d'écran de la page d'acceuil du site <a href="http://www.gouvernement.fr/" target="blank"><i class="fa fa-external-link"></i> www.gouvernement.fr</a> faite le 18/02/15 - 00:49 sur le navigateur <a href="https://www.mozilla.org/fr/firefox/new/" target="blank"><i class="fa fa-external-link"></i> Firefox</a> grâce au module <a href="http://pearlcrescent.com/products/pagesaver/" target="blank"><i class="fa fa-external-link"></i> Pearl Crescent Page Saver</a>
+
+* **Type :** Image PNG (Portable Network Graphics)
+* **Taille :** 7 887 369 octets (7,9 Mo sur disque)
+* **Emplacement :** Gouv.fr/Analyse/Captures
+* **Création :** 18/02/15 - 01:02
+* **Dimensions :** 1255 × 9747
+* **Espace colorimétrique :** RGB
+* **Canal Alpha :** Oui
+
+&nbsp;  
+**Télécharger**  
+
+[<i class="fa fa-download"></i> Fichier Png](/recherches/gouv.fr/sources/Analyse/Captures/150217_actu1_uncoupdoeil.png)

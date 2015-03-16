@@ -1,0 +1,22 @@
+Le site du gouvernent se divise ainsi en plusieurs parties dont le but est d'informer un public large sur le gouvernement. 
+
+Ses actions et ce qu'il est - quoi d'autre ? 
+
+On arrive donc à de très grandes listes de descriptions, des pages personnalisées pour chaque ministres, des articles très fournis sur certaines informations et actions des ministres, mais le site me paraît trop calqué sur une logique de flux et de nouveauté. Il n'as pas de tronc commun ou n'est pas assez pragmatique.
+
+>Pour Russell Davies, ces exemples montrent le parti pris de conception qui a animé l’équipe de Gov.Uk depuis l’origine : faire des choses, claires, simples… “Centrées sur les utilisateurs” (une partie de l’équipe travaille d’ailleurs à faire de la recherche centrée sur les utilisateurs), comme l’expliquent les 7 principes de conception qui sont devenus le nouveau credo du design public (et que les Américains ont repris et adapté). Rappelons-les !
+
+- Partir des besoins (des besoins des utilisateurs, pas de ceux du gouvernement)
+- Faire moins
+- Concevoir avec les données
+- Faire le travail difficile pour le rendre simple
+- Itérer. Puis itérer à nouveau
+- Construire pour inclure
+- Comprendre le contexte
+- Construire des services numériques, pas des sites web
+- Etre cohérent plutôt qu’uniforme
+- Faire les choses de manière ouverte : cela permet de faire les choses mieux.
+
+>Pour appliquer ces principes, les designers n’hésitent pas à faire des choix radicaux comme d’éliminer les pages qui ne sont pas consultées, nous explique Davies. Et surtout, partout où c’est possible, transformer l’information en services.
+>En matière de conception également, l’enjeu a aussi été d’unifier le design de centaines de sites d’information des autorités publiques britanniques. Adoptant de partout des modèles basiques qui pourront évoluer rapidement et globalement, des sites adaptés à toutes les formes de consultation, y compris mobile. Bien sûr, ce grand-oeuvre n’est pas fini… Mais l’équipe de Gov.uk a posé des bases techniques permettant de rendre les choses plus simples, plus claires, plus rapides, explique Davies. “L’enjeu n’est pas tant d’innover que de réparer les bases”.<span class="surligner"><fn><sup>1</sup></fn><span class="notes notes_last_published"><strong>n.1</strong><i>Gov.uk : “L’important n’est pas d’innover, mais de faire que les choses marchent”</i>, par Hubert Guillaud, publié le 17/02/15 sur le site <a href="http://www.internetactu.net/2015/02/17/gov-uk-limportant-nest-pas-dinnover-mais-de-faire-que-les-choses-marchent/" target="blank">Internet Actu.</a></span></span>
+

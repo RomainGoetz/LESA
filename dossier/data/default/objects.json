@@ -1,0 +1,53 @@
+[
+     {
+        "name"    : "Gouv.fr",
+        "type"    : "racine",
+        "depends" : []
+    },{
+        "name"    : "Analyse",
+        "type"    : "analyse",
+        "depends" : [
+            "Gouv.fr"
+        ]
+    },{
+        "name"    : "Captures",
+        "type"    : "analyse",
+        "depends" : [
+            "Analyse"
+        ]
+    },{
+        "name"    : "150217_Accueil.png",
+        "type"    : "analyse",
+        "depends" : [
+            "Captures"
+        ],
+		"group" : "fichier"
+    },{
+        "name"    : "150217_actu1_uncoupdoeil.png",
+        "type"    : "analyse",
+        "depends" : [
+            "Captures"
+        ],
+		"group" : "fichier"
+    },{
+        "name"    : "150217_actu2_toutelactu.png",
+        "type"    : "analyse",
+        "depends" : [
+            "Captures"
+        ],
+		"group" : "fichier"
+    },{
+        "name"    : "Arbo",
+        "type"    : "analyse",
+        "depends" : [
+            "Analyse"
+        ]
+    },{
+        "name"    : "Gouvernementfr_arbo.pdf",
+        "type"    : "analyse",
+        "depends" : [
+            "Arbo"
+        ],
+		"group" : "fichier"
+    }
+]
